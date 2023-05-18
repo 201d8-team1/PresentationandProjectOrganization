@@ -6,3 +6,4 @@
 [GitHub Project Management](https://github.com/orgs/201d8-team1/projects/4)
 
 ## Purpose
+To organize the presentation and project organization materials for this project.
