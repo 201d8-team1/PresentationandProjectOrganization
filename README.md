@@ -1,4 +1,7 @@
 # Presentation and Project Organization
+
+This repository is used for our team organizational documentation. It also contains a PDF of the slides used in our presentation along with a link to a recording of our team presentation.
+
 [Team Agreement](https://github.com/201d8-team1/PresentationandProjectOrganization/blob/main/ops-201d8%20Team%231%20Team%20Agreement.pdf)
 
 [System Selection](https://github.com/201d8-team1/PresentationandProjectOrganization/blob/main/ops-201d8%20Team1%20System%20Selection.pdf)
@@ -9,5 +12,3 @@
 
 [Project Presentation Video]()
 
-## Purpose
-To organize the presentation and project organization materials for this project.
