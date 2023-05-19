@@ -13,5 +13,5 @@ This repository is used for our team organizational documentation. It also conta
 
 [Project Presentation Slides](https://github.com/201d8-team1/PresentationandProjectOrganization/blob/main/201d8Team1%20Presentation.pdf)
 
-[Project Presentation Video]()
+[Project Presentation Video](https://zoom.us/rec/play/uSDxjVAs-SKVBIGBRXW-joVvmGEkE18s9a4GWKY0JMuCtLOLtp_PRXf1uKp6PX6rjPLCX22dEHTlNq5Y.97pZoyqJvx_RUPGe?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2Fup_ZojrfbMNht-U6tIEpGbRSdn83rtMWEijPRewm6DbyKhXNv77u6dBuWThlLE7b.ycG2bo3epssGLRHo)
 
